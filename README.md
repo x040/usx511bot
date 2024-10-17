@@ -4,5 +4,3 @@ free phone numbers function
 
 
 ## programmer 
-
-### TElEGRAM : @AKIL828 - @FFFFFFM
