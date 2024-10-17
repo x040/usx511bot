@@ -1,11 +1,6 @@
 <?php
 
 
-/*
-
-BY @AKIL828
-
-*/
 $nn2 = ""; //the number from smscodeonline.com
 
 $ch = curl_init();
@@ -41,11 +36,6 @@ $me3  = explode('<div class="clear"></div>',$me3)[0];
 
 
 
-/*
-
-BY @AKIL828
-
-*/
 
 
 
