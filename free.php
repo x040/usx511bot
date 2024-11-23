@@ -3,7 +3,7 @@
 
 /*
 
-BY @AKIL828
+UrDaddy
 
 */
 $nn2 = ""; //the number from smscodeonline.com
@@ -43,7 +43,7 @@ $me3  = explode('<div class="clear"></div>',$me3)[0];
 
 /*
 
-BY @AKIL828
+UrDaddy
 
 */
 
